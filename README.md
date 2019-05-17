@@ -1,4 +1,4 @@
-# Modified-Cassette-Deck-Max-MSP-Patch
+Evaluation-of-Pitch-Modulation-as-a-Creative-Effect-Max-MSP-Patches
 
 This repository contains encapsulations of the Max/MSP patches used in the MSc Thesis 'Evaluation of Pitch Modulation as a Creative Effect'. This includes the Maxuino patch that was used to provide control over the speed of a modified cassette deck, in addition to the rate and extent MUSHRA listening test patches. 
 
